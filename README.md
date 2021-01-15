@@ -17,9 +17,6 @@ Currently involved with learning credential digitalization development process i
 <a href="https://www.medium.com/@mirko.stanic/">
     <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-<a href="https://www.instagram.com/_mirko.stanic_/">
-    <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 </p>
 <br>
 
