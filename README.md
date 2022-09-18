@@ -8,7 +8,7 @@ Currently involved with learning credential digitalization development process i
 <a href="https://mirko.stanic.one"> 
     <img align="left" alt="Web" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firefoxbrowser.svg" />
 </a>
-<a href="https://www.linkedin.com/in/mirko.stanic/">
+<a href="https://www.linkedin.com/in/mirkostanic/">
     <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/StanicMirko"> 
