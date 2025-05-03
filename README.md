@@ -11,9 +11,6 @@ Currently involved with learning credential digitalization development process i
 <a href="https://www.linkedin.com/in/mirkostanic/">
     <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://twitter.com/StanicMirko"> 
-    <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://www.medium.com/@mirko.stanic/">
     <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
@@ -36,5 +33,3 @@ Currently involved with learning credential digitalization development process i
 ![postgresql](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=dark-green) ![mysql](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=dark-green) ![mssql](https://img.shields.io/badge/Database-MSSQL-informational?style=flat&logo=windows&logoColor=white&color=dark-green) ![mongodb](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=dark-green)
 
 ![bash](https://img.shields.io/badge/Tools-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=red) ![docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=red) ![jest](https://img.shields.io/badge/Tools-JEST-informational?style=flat&logo=bandlab&logoColor=white&color=red) ![mocha](https://img.shields.io/badge/Tools-Mocha-informational?style=flat&logo=bandlab&logoColor=white&color=red)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mirkostanic.37a0aad42a91e1846dc827981fab62fd)
