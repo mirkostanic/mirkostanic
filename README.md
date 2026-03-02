@@ -1,8 +1,10 @@
 ## **About**
 
-My name is Mirko Stanić and I am aTechnical Lead and Product Director from Croatia. I have 10 years of agile development and 5 years of agile management experience in a wide variety of information systems on a national level and also serve as the Product Owner of the National Information System for Applications to Graduate Study Programs in Croatia (NISpDS).
+Hi, my name is Mirko Stanić and I am IT architect from Croatia. I have over 15 years of agile development and 10 years of management experience in a wide variety of information systems in large enterprises and on national systems.
 
-Currently involved with learning credential digitalization development process in Croatia and working as enterprise architect on self-sovereign identity for a private venture. Also serving as a national representative for Croatia at the European Blockchain Partnership in both technical and policy groups.
+As an Application Architect at IBM, I design and implement IT architecture and cloud computing strategies for various clients across different industries. With over 15 years of experience in software development and architecture across automotive, public sector and education industries, I have a strong background in system architecture, software development, and software architecture. I am also a Master Certified Architect by the Open Group and AWS Certified Architect, demonstrating my proficiency in architecture and cloud solutions.
+
+In addition to my role at IBM, I have been involved in several national and international projects related to digital diplomas and credentials. As the National Representative for Croatia on the European Blockchain Partnership, I initiated the development of digital diplomas in Croatia and acted as the Product Owner for the establishment of the Croatian node of the European Blockchain Services Infrastructure (EBSI) network. I also led the development of the national information system for applications to undergraduate and graduate study programmes in Croatia. My goal is to leverage my skills and experience to create innovative and impactful solutions that benefit society and the economy.
 
 <p>
 <a href="https://mirko.stanic.one"> 
